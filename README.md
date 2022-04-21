@@ -22,7 +22,7 @@ This portfolio contains various data science projects.
 
 ![CompM](imgs/Compare.png)
 
-# [Project 3: Prediction of Concrete Compressive Strength using Regression Model](https://github.com/Abdlwhd/Breast_Cancer_Detection)
+# [Project 3: Prediction of Concrete Compressive Strength using Regression Model](https://github.com/Abdlwhd/Concrete_Strength_Prediction)
 * Built a regression model for prediction of Concrete Compressive Strength
 * Enforced various preprocessing techniques to clean the data
 * Conducted an exploratory analysis to find importance features

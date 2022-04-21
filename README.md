@@ -10,7 +10,7 @@ This portfolio contains various data science projects.
 * Evaluated the machine learning models using ROC analysis and confusion matrix
 * Best model achieved an accuracy of approx 95%
 
-![CM](https://github.com/Abdlwhd/Abdulwahid_Portfolio/blob/main/imgs/ConfusionP_SVM.PNG)
+![CM](imgs/ConfusionP_SVM.PNG)
 
 # [Project 2: Breast Cancer Detection using Various Machine Learning Models](https://github.com/Abdlwhd/Breast_Cancer_Detection)
 * Built a detection model for diagnosis of Breast cancer in R
@@ -20,7 +20,7 @@ This portfolio contains various data science projects.
 * Built SVM, KNN, Random Forest, CART and LDA to find the best model
 * Evaluated the machine learning models using dotplot and model plots
 
-![CompM](https://github.com/Abdlwhd/Abdulwahid_Portfolio/blob/main/imgs/Compare.png)
+![CompM](imgs/Compare.png)
 
 # [Project 3: Prediction of Concrete Compressive Strength using Regression Model](https://github.com/Abdlwhd/Breast_Cancer_Detection)
 * Built a regression model for prediction of Concrete Compressive Strength
@@ -29,5 +29,5 @@ This portfolio contains various data science projects.
 * Applied data transformation to increase model perfomance
 * Built Multiple Linear Regression Model for prediction
 
-![Scatter](https://github.com/Abdlwhd/Abdulwahid_Portfolio/blob/main/imgs/3D_scatter.PNG)
+![Scatter](imgs/3D_scatter.PNG)
 

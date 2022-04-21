@@ -1,14 +1,14 @@
 # Abdulwahid_Portfolio
 This portfolio contains various data science projects.
 # [Project 1: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)
-* Built a framework for diagnosis Azlheimer's disease using MRI features
+* Built a framework for diagnosis Alzheimer's disease using MRI features
 * Performed Exploratory Analysis to gain useful insights about the data
-* Applied preprocessing techniques to clean and transfrom the data
+* Applied preprocessing techniques to clean and transform the data
 * Utilized a manifold learning approach (PCA) for dimensionality reduction
 * Used a regression model to verify feature importance
 * Optimized SVM, KNN, Logistic Regression, Naive bayes and Decision Tree classifier to find the best model
 * Evaluated the machine learning models using ROC analysis and confusion matrix
-* Best model achieved an accuracy of approx 95%
+* Best model achieved an accuracy of approximately 95%
 
 ![CM](imgs/ConfusionP_SVM.PNG)
 
@@ -18,7 +18,7 @@ This portfolio contains various data science projects.
 * Applied preprocessing techniques to clean the data
 * Utilized cross validation to boost model's efficiency
 * Built SVM, KNN, Random Forest, CART and LDA to find the best model
-* Evaluated the machine learning models using dotplot and model plots
+* Evaluated the machine learning models using dot plot and model plots
 
 ![CompM](imgs/Compare.png)
 
@@ -26,7 +26,7 @@ This portfolio contains various data science projects.
 * Built a regression model for prediction of Concrete Compressive Strength
 * Enforced various preprocessing techniques to clean the data
 * Conducted an exploratory analysis to find importance features
-* Applied data transformation to increase model perfomance
+* Applied data transformation to increase model performance
 * Built Multiple Linear Regression Model for prediction
 
 ![Scatter](imgs/3D_scatter.PNG)

@@ -9,6 +9,7 @@ This portfolio contains various data science projects.
 * Optimized SVM, KNN, Logistic Regression, Naive bayes and Decision Tree classifier to find the best model
 * Evaluated the machine learning models using ROC analysis and confusion matrix
 * Best model achieved an accuracy of approx 95%
+
 # [Project 2: Breast Cancer Detection using Various Machine Learning Models](https://github.com/Abdlwhd/Breast_Cancer_Detection)
 * Built a detection model for diagnosis of Breast cancer in R
 * Designed visualizations like (density plot, box plot, bar plot etc.) for Exploratory Data Analysis

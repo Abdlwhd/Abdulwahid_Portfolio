@@ -1,6 +1,6 @@
 # Abdulwahid_Portfolio
 This portfolio contains various data science projects.
-# Project 1: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models
+# [Project 1: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)
 * Built a framework for diagnosis Azlheimer's disease using MRI features
 * Performed Exploratory Analysis to gain useful insights about the data
 * Applied preprocessing techniques to clean and transfrom the data

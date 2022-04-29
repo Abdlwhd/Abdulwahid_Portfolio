@@ -11,7 +11,7 @@ This portfolio contains various data science projects.
 * Best model achieved an accuracy of approximately 99.5%
 
 <img src="imgs/Best_model.png"> 
-</br>
+
 <img src="imgs/DL.png">
 
 # [Project 2: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)

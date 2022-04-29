@@ -10,9 +10,9 @@ This portfolio contains various data science projects.
 * Evaluation metrices include confusion matrix, ROC analysis, Model compariosn and  Deep learning perfomance analysis
 * Best model achieved an accuracy of approximately 99.5%
 
-<img src="imgs/Best_model.png" width="700" height="400"> 
+<img src="imgs/Best_model.png"> 
 </br>
-<img src="imgs/DL.png" width="700" height="400">
+<img src="imgs/DL.png">
 
 # [Project 2: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)
 * Built a framework for diagnosis Alzheimer's disease using MRI features

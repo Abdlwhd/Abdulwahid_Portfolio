@@ -1,6 +1,20 @@
 # Abdulwahid_Portfolio
 This portfolio contains various data science projects.
-# [Project 1: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)
+# [Project 1: Fake Job Postings Detection Using Natural Language Processing and Data Mining Techniques](https://github.com/Abdlwhd/Fake_Job_Postings_Detection)
+* Built a fraud job postings detection tool using NLP and machine learning models
+* Performed Descriptive and Exploratory Analysis to gain useful insights about the data
+* Applied preprocessing techniques to clean and transform the data
+* Implemented a NLP approach to convert text data to vectors
+* Optimized RF, XGBoost, Logistic Regression, Mutlinomial Naive bayes and SVM classifier to find the best model
+* Applied a Multi-preceptron using Pytorch for better evaluation
+* Evaluation metrices include confusion matrix, ROC analysis, Model compariosn and  Deep learning perfomance analysis
+* Best model achieved an accuracy of approximately 99.5%
+
+![CM](imgs/Best_model.png) </br>
+![CM](imgs/CM.png) <br/>
+![CM](imgs/DL.png) <br/>
+
+# [Project 2: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)
 * Built a framework for diagnosis Alzheimer's disease using MRI features
 * Performed Exploratory Analysis to gain useful insights about the data
 * Applied preprocessing techniques to clean and transform the data
@@ -12,7 +26,7 @@ This portfolio contains various data science projects.
 
 ![CM](imgs/ConfusionP_SVM.PNG)
 
-# [Project 2: Breast Cancer Detection using Various Machine Learning Models](https://github.com/Abdlwhd/Breast_Cancer_Detection)
+# [Project 3: Breast Cancer Detection using Various Machine Learning Models](https://github.com/Abdlwhd/Breast_Cancer_Detection)
 * Built a detection model for diagnosis of Breast cancer in R
 * Designed visualizations like (density plot, box plot, bar plot etc.) for Exploratory Data Analysis
 * Applied preprocessing techniques to clean the data
@@ -22,7 +36,7 @@ This portfolio contains various data science projects.
 
 ![CompM](imgs/Compare.png)
 
-# [Project 3: Prediction of Concrete Compressive Strength using Regression Model](https://github.com/Abdlwhd/Concrete_Strength_Prediction)
+# [Project 4: Prediction of Concrete Compressive Strength using Regression Model](https://github.com/Abdlwhd/Concrete_Strength_Prediction)
 * Built a regression model for prediction of Concrete Compressive Strength
 * Enforced various preprocessing techniques to clean the data
 * Conducted an exploratory analysis to find importance features

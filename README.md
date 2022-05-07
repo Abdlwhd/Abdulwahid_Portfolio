@@ -1,6 +1,18 @@
 # Abdulwahid_Portfolio
 This portfolio contains various data science projects.
-# [Project 1: Fake Job Postings Detection Using Natural Language Processing and Data Mining Techniques](https://github.com/Abdlwhd/Fake_Job_Postings_Detection)
+# [Project 1: Prediction of Used Car Prices using Exploratory Data Analysis and Regression Models](https://github.com/Abdlwhd/Prediction_of_Used_Car_Prices)
+* Built a prediction tool using a regression model
+* Demonstrated Exploratory and Descriptive Analysis to highlight significant features
+* Applied data transformation and preprocessing techniques to clean and transform the data
+* Used RF, XGBoost, Multiple Linear Regression and LASSO to find the best model
+* Evaluation metrices include MAE,MSE,R-square and Distribution Plot
+* Best model achieved an Mean Absolute Error of approximately 667
+
+![mae](imgs/mae_score.png) </br>
+
+![plot](imgs/Dplot_RF.png)
+
+# [Project 2: Fake Job Postings Detection Using Natural Language Processing and Data Mining Techniques](https://github.com/Abdlwhd/Fake_Job_Postings_Detection)
 * Built a fraud job postings detection tool using NLP and machine learning models
 * Performed Descriptive and Exploratory Analysis to gain useful insights about the data
 * Applied preprocessing techniques to clean and transform the data
@@ -14,7 +26,7 @@ This portfolio contains various data science projects.
 
 <img src="imgs/DL.png">
 
-# [Project 2: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)
+# [Project 3: Diagnosis of Alzheimer's Disease by Integrating Machine and Manifold Learning Models](https://github.com/Abdlwhd/Diagnosis_of_Alzheimer_Disease)
 * Built a framework for diagnosis Alzheimer's disease using MRI features
 * Performed Exploratory Analysis to gain useful insights about the data
 * Applied preprocessing techniques to clean and transform the data
@@ -26,7 +38,7 @@ This portfolio contains various data science projects.
 
 ![CM](imgs/ConfusionP_SVM.PNG)
 
-# [Project 3: Breast Cancer Detection using Various Machine Learning Models](https://github.com/Abdlwhd/Breast_Cancer_Detection)
+# [Project 4: Breast Cancer Detection using Various Machine Learning Models](https://github.com/Abdlwhd/Breast_Cancer_Detection)
 * Built a detection model for diagnosis of Breast cancer in R
 * Designed visualizations like (density plot, box plot, bar plot etc.) for Exploratory Data Analysis
 * Applied preprocessing techniques to clean the data
@@ -35,13 +47,3 @@ This portfolio contains various data science projects.
 * Evaluated the machine learning models using dot plot and model plots
 
 ![CompM](imgs/Compare.png)
-
-# [Project 4: Prediction of Concrete Compressive Strength using Regression Model](https://github.com/Abdlwhd/Concrete_Strength_Prediction)
-* Built a regression model for prediction of Concrete Compressive Strength
-* Enforced various preprocessing techniques to clean the data
-* Conducted an exploratory analysis to find importance features
-* Applied data transformation to increase model performance
-* Built Multiple Linear Regression Model for prediction
-
-![Scatter](imgs/3D_scatter.PNG)
-

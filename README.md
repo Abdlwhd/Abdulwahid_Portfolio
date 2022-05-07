@@ -8,7 +8,7 @@ This portfolio contains various data science projects.
 * Evaluation metrices include MAE,MSE,R-square and Distribution Plot
 * Best model achieved an Mean Absolute Error of approximately 667
 
-![mae](imgs/mae_score.png) </br>
+![mae](imgs/mae_score.png)
 
 ![plot](imgs/Dplot_RF.png)
 

@@ -1,6 +1,5 @@
 # Abdulwahid_Portfolio
-This portfolio contains various data science projects.
-</br>
+This portfolio contains various data science projects.\
 **Note: To access the project please click on the project title**
 # [Project 1: Prediction of Used Car Prices using Exploratory Data Analysis and Regression Models](https://github.com/Abdlwhd/Prediction_of_Used_Car_Prices)
 * Built a prediction tool using a regression model
